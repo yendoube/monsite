@@ -196,7 +196,7 @@ article p
 {
     font-size: 0.8em;
     margin: 0; /* Réduit l'espacement par défaut entre les paragraphes */
-    margin-bottom: 0px; /* Ajuste l'espace entre les paragraphes comme tu le souhaites */
+    margin-bottom: 1px; /* Ajuste l'espace entre les paragraphes comme tu le souhaites */
 }
 
 aside
