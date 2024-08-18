@@ -195,6 +195,8 @@ article
 article p
 {
     font-size: 0.8em;
+    margin: 0; /* Réduit l'espacement par défaut entre les paragraphes */
+    margin-bottom: 10px; /* Ajuste l'espace entre les paragraphes comme tu le souhaites */
 }
 
 aside
@@ -208,12 +210,6 @@ aside
     color: white;
     font-size: 0.9em;
 }
-
-aside p {
-    margin: 0; /* Réduit l'espacement par défaut entre les paragraphes */
-    margin-bottom: 10px; /* Ajuste l'espace entre les paragraphes comme tu le souhaites */
-}
-
 
 #fleche_bulle
 {
