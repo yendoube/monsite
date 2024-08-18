@@ -209,6 +209,12 @@ aside
     font-size: 0.9em;
 }
 
+aside p {
+    margin: 0; /* Réduit l'espacement par défaut entre les paragraphes */
+    margin-bottom: 10px; /* Ajuste l'espace entre les paragraphes comme tu le souhaites */
+}
+
+
 #fleche_bulle
 {
     position: absolute;
